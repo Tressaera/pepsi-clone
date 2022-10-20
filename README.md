@@ -1,1 +1,1 @@
-# pepsi-clone
+# Pepsi web sayfasının klonunu yapmaya çalıştım.
